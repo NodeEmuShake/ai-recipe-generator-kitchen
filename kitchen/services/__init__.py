@@ -1,0 +1,1 @@
+"""Service layer — orchestration between handlers and the inference engine."""
