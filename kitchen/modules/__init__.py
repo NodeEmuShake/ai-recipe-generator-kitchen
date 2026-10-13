@@ -1,0 +1,1 @@
+"""Feature modules — each module is a self-contained recipe capability."""
