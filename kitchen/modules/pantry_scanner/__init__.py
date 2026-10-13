@@ -1,0 +1,1 @@
+"""Pantry scanner — reads a plain-text pantry list and normalizes entries."""
