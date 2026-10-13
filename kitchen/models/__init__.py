@@ -1,0 +1,1 @@
+"""Domain models — dataclasses representing recipes, ingredients, and plans."""
