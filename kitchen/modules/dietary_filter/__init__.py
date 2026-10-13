@@ -1,0 +1,1 @@
+"""Dietary filter — post-generation validation against a profile."""
