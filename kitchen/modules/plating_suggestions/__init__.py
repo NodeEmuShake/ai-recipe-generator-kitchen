@@ -1,0 +1,1 @@
+"""Plating suggestions — turns a finished recipe into a short serving note."""
