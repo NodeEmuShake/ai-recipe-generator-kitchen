@@ -1,0 +1,11 @@
+# Default configuration shipped with ai-recipe-generator-kitchen.
+# Copy to %APPDATA%/ai-recipe-generator-kitchen/kitchen.toml and edit.
+
+[kitchen]
+default_model   = "pantry-lite-3b"
+temperature     = 0.7
+top_p           = 0.92
+max_tokens      = 1024
+offline         = true
+dietary_profile = "omnivore"
+units           = "metric"
