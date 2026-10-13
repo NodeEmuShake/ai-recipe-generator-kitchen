@@ -1,0 +1,1 @@
+"""Shared library — pure functions, no I/O, easy to test."""
